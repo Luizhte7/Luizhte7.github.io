@@ -1,3 +1,4 @@
+#EXTM3u
 ############################################################################ Canais | ABERTO
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
@@ -7,8 +8,6 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/504
 http://186.226.215.132:80/live/carlos123/carlos123/10.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ 4k
-
-
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
@@ -3394,3 +3393,6 @@ http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt3172532.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="Filmes | Lancamentos",Diário de um adolescente 
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0112461.mp4
+
+#EXTINF:-1 xui-id="375991" tvg-name="Inheritance (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8Hlyfm7etzhNVv0gDPAKc7bT9z.jpg" group-title="Filmes | Suspense",Inheritance (2024)
+http://tbest.live:80/play/2WpdItl0zUJHvxGoHl5dJ6VedW_sO_g-6j97wb3AsQ78bRViq5dBcw45OEIJ0G6Y
